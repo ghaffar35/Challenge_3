@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE CV SYSTEM "cv.dtd">
+	<?xml-stylesheet href="style.css" type="text/css" ?>
+
+<page>
+	<section>
+		<identite>
+			<prenom>hbsckjcdjkvn</prenom>
+			<nom>ffiurdfioguerifov</nom>
+			<naissance>25/12/65</naissance>
+		</identite>
+	</section>
+
+	<section>
+		<contact> 
+			<adresse>
+				<rue><rue>
+				<cp> </cp>
+			 
+			</adresse>
+		</contact>
+	</section>
+</page>
