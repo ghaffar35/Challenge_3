@@ -4,20 +4,59 @@
 
 <page>
 	<section>
-		<identite>
-			<prenom>hbsckjcdjkvn</prenom>
-			<nom>ffiurdfioguerifov</nom>
-			<naissance>25/12/65</naissance>
-		</identite>
+			<photo></photo>
+			<identite>
+				<prenom>ABDELGHAFFAR</prenom>
+				<nom>ARRAB</nom>
+				<naissance>05/11/983</naissance>
+			</identite>
+		
+			<competence>Competences</competence>
+		
+			<formation>	
+				<titre>Formation</titre>
+					<intitule></intitule>
+					<durée></durée>
+					<lieu></lieu>
+					<descriptif> </descriptif>	
+				</formation>
+		
 	</section>
 
 	<section>
-		<contact> 
-			<adresse>
-				<rue><rue>
-				<cp> </cp>
-			 
-			</adresse>
-		</contact>
+		
+			<custom>Custom</custom>
+		
+		
+			<contact> 
+				<titre>Contact</titre>
+				<adresse>
+					<numero></numero>
+					<rue></rue>
+					<cp></cp>
+			 		<ville></ville>
+				</adresse>
+					<tel></tel>
+					<mail></mail>
+			</contact>
+		
 	</section>
+		
+	<section>
+		
+			<experience>	
+				<titre>Experiences</titre>
+					<intitule></intitule>
+					<durée></durée>
+					<lieu></lieu>
+					<descriptif></descriptif>	
+				</experience>	
+		
+	</section>
+	<section>
+		
+			<hobbie>Hobbie</hobbie>
+			
+	</section>
+		
 </page>
