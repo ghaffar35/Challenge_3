@@ -10,34 +10,41 @@
 				<nom>ARRAB</nom>
 				<naissance>05/11/983</naissance>
 			</identite>
-		
-			<competence>Competences</competence>
+		<custom>Custom</custom>
+			
 		
 			<formation>	
-				<titre>Formation</titre>
-					<intitule></intitule>
-					<durée></durée>
-					<lieu></lieu>
+				<titre>FORMATIONS</titre>
+					<intitule>Developpeur nouvelles technologies,</intitule>
+					<durée>Mai 2016 - Fevrier 2017,</durée>
+					<lieu>Code Academie Rennes.</lieu>
 					<descriptif> </descriptif>	
 				</formation>
-		
+				
+				<formation>
+				<intitule>Bac STT Action Communication Commerciale,</intitule>
+				<duree>2003,</duree>
+				<lieu>Lycée Jeanne d'Arc Rennes.</lieu>
+				</formation>
 	</section>
 
 	<section>
 		
-			<custom>Custom</custom>
-		
+			
+		<competence>
+		<titre> SKILLS/LANGAGES</titre>
+		</competence>
 		
 			<contact> 
-				<titre>Contact</titre>
+				<titre>CONTACT</titre>
 				<adresse>
-					<numero></numero>
-					<rue></rue>
-					<cp></cp>
-			 		<ville></ville>
+					<numero>8</numero>
+					<rue>parc des Balkans</rue>
+					<cp>35200</cp>
+			 		<ville>Rennes</ville>
 				</adresse>
-					<tel></tel>
-					<mail></mail>
+					<tel>Tel: 07.82.70.15.47</tel>
+					<mail>Mail: ghaffar@gmail.fr</mail>
 			</contact>
 		
 	</section>
@@ -45,7 +52,7 @@
 	<section>
 		
 			<experience>	
-				<titre>Experiences</titre>
+				<titre>EXPERIENCES</titre>
 					<intitule></intitule>
 					<durée></durée>
 					<lieu></lieu>
@@ -55,7 +62,9 @@
 	</section>
 	<section>
 		
-			<hobbie>Hobbie</hobbie>
+			<hobbie>
+			<titre>HOBBIES/INTERETS</titre>
+			</hobbie>
 			
 	</section>
 		

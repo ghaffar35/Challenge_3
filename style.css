@@ -2,6 +2,7 @@ page{
 	display: block;
 	width:100%;
 	height:100%;
+	font-family:sans-serif;
 }
 
 
@@ -13,7 +14,7 @@ display: block;
 page > section:first-child{
 width: 100%;
 height: 30%;
-background-color: red;
+background-color:black;
 }
 
 page > section:nth-child(2){
@@ -37,20 +38,16 @@ background-color: #B22222;
 
 section > identite{
 width: 80%;
-height: 33.33%;
+height: 33%;
 margin-left: 200px;
 background-color:#2D2D2D ;
 float: right;
 display: block;
-color: white;
-font-family: 
-font-size: 20px;
-letter-spacing: 1px;
 }
 
-section > competence{
+section > custom{
 width: 80%;
-height: 33.33%;
+height: 33%;
 margin-left: 200px;
 background-color: #413F3B;
 float: right;
@@ -59,14 +56,14 @@ display: block;
 
 section > formation{
 width: 80%;
-height: 33.33%;
+height: 34%;
 margin-left: 200px;
 background-color: #676663;
 float: right;
 display: block;
 }
 
-section > custom{
+section > competence{
 width: 70%;
 height: 100%;
 background-color:white ;
@@ -96,21 +93,46 @@ display: block;
 background-color: #FFE4E1;
 }
 
-/*identite{
-margin: auto;
+titre{
+font-size: 20px;	
+font-style: bold;
+text-align: center;	
+}
+
+identite{
 font-size: 20px;
-color: white;
 font-family:sans-serif;
-}*/
+}
+
 
 competence{
 font-size: 20px;
 color: 
 }
 
-formation{
-
+formation > titre{
+display: block;
+text-align: center;
 }
 
 
+contact > titre{
+display: block;
+text-align: center;	
+margin-top: 10px;
+}
 
+tel, mail{
+	display: block;
+	text-align: center;
+}
+
+adresse{
+	display: block;
+	text-align: center;
+}
+
+contact > adresse{
+margin-top: 50px;	
+	
+}
