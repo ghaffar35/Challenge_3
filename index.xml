@@ -8,7 +8,7 @@
 			<identite>
 				<prenom>ABDELGHAFFAR</prenom>
 				<nom>ARRAB</nom>
-				<naissance>05/11/983</naissance>
+				<naissance>05/11/1983</naissance>
 			</identite>
 		<custom>Custom</custom>
 			
@@ -33,6 +33,8 @@
 			
 		<competence>
 		<titre> SKILLS/LANGAGES</titre>
+HTML5/CSS-PHP-JAVASCRIPT-CARTOGRAPHIE -Cartodb- Logiciel 50+1 
+
 		</competence>
 		
 			<contact> 
@@ -53,17 +55,40 @@
 		
 			<experience>	
 				<titre>EXPERIENCES</titre>
-					<intitule></intitule>
-					<durée></durée>
-					<lieu></lieu>
+					<intitule>Engagement citoyen</intitule>
+					<durée>2014-2015</durée>
+					<lieu>Rennes/Nantes</lieu>
 					<descriptif></descriptif>	
-				</experience>	
+				</experience>
+
+				<experience>	
+					<intitule>Entrepreunariat</intitule>
+					<durée>2013-2014</durée>
+					<lieu>Rennes/Nantes</lieu>
+					<descriptif></descriptif>	
+				</experience>
+
+				<experience>	
+					<intitule>Assistant parlementaire</intitule>
+					<durée>2012-2013</durée>
+					<lieu>Rennes</lieu>
+					<descriptif></descriptif>	
+				</experience>
+
+				<experience>	
+					<intitule>Animateur socio culturel</intitule>
+					<durée>2010-2012</durée>
+					<lieu>Rennes</lieu>
+					<descriptif></descriptif>	
+				</experience>
+
 		
 	</section>
 	<section>
 		
 			<hobbie>
 			<titre>HOBBIES/INTERETS</titre>
+			Football, Running, bénévolat
 			</hobbie>
 			
 	</section>
